@@ -1,2 +1,2 @@
-# tugas-Rangkuman
+# tugas-Rangkuman django
 Rangkuman
